@@ -1,4 +1,8 @@
-<resources>>
+<resources>
+
+    <style name="BeatBoxButton" parent="android:style/Widget.Material.Button">
+        <item name="android:background">@color/dark_blue</item>
+    </style>
 
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
